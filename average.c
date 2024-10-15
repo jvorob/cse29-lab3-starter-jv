@@ -14,7 +14,7 @@ int main(int argc, char *argv[]) {
     float sum = 0;
 
     // Loop through each command-line argument to calculate the sum
-    for (int i = 1; i < argc; i++) {
+    asdasdsajkfor (int i = 1; i < argc; i++) {
         sum += atoi(argv[i]);
     }
 
